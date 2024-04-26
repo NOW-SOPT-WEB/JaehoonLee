@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const Header = () => {
-  return <HeaderWrapper>헤더영역입니다.</HeaderWrapper>;
+  return <HeaderWrapper>🌱새싹 웹팟🌱</HeaderWrapper>;
 };
 
 export default Header;
